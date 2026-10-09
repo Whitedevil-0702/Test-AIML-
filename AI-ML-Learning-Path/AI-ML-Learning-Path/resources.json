@@ -1,0 +1,64 @@
+{
+  "course": "AI-ML-Learning-Path",
+  "version": "0.1.0",
+  "status": "starter curriculum; advanced resource coverage incomplete",
+  "resources": [
+    {
+      "id": "R01",
+      "title": "GeeksforGeeks Machine Learning Tutorial",
+      "url": "https://www.geeksforgeeks.org/machine-learning/machine-learning-tutorial/",
+      "modules": [
+        "AI-01",
+        "AI-03"
+      ],
+      "verification": "URL supplied by user; use as broad reference"
+    },
+    {
+      "id": "R02",
+      "title": "GeeksforGeeks Artificial Intelligence",
+      "url": "https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/",
+      "modules": [
+        "AI-01"
+      ],
+      "verification": "URL supplied by user; individual sections need curation"
+    },
+    {
+      "id": "R03",
+      "title": "GeeksforGeeks AI, ML and Data Science Tutorial",
+      "url": "https://www.geeksforgeeks.org/machine-learning/ai-ml-and-data-science-tutorial-learn-ai-ml-and-data-science/",
+      "modules": [
+        "AI-01",
+        "AI-02",
+        "AI-03"
+      ],
+      "verification": "URL supplied by user; broad roadmap"
+    },
+    {
+      "id": "R04",
+      "title": "W3Schools AI",
+      "url": "https://www.w3schools.com/ai/",
+      "modules": [
+        "AI-01",
+        "AI-03"
+      ],
+      "verification": "URL supplied by user; use for conceptual/interactive reinforcement"
+    },
+    {
+      "id": "R05",
+      "title": "W3Schools Python ML Getting Started",
+      "url": "https://www.w3schools.com/python/python_ml_getting_started.asp",
+      "modules": [
+        "AI-02",
+        "AI-03"
+      ],
+      "verification": "URL supplied by user; Python prerequisites required"
+    },
+    {
+      "id": "R06",
+      "title": "YouTube video supplied by team (title pending verification)",
+      "url": "https://www.youtube.com/watch?v=BUTjcAjfMgY",
+      "modules": [],
+      "verification": "URL preserved; title, duration, chapters and content not verified"
+    }
+  ]
+}
